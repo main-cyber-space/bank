@@ -108,7 +108,7 @@ export default function PaymentPage() {
               Acc : 5157960136
             </p>
             <button
-              onClick={() => copyToClipboard("9551259264")}
+              onClick={() => copyToClipboard("5157960136")}
               className="text-green-500 hover:text-green-400"
               title="Copy account number"
             >
